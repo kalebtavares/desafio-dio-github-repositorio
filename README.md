@@ -3,3 +3,5 @@ Repositório criado para execução e entrega de projeto para finalização do B
 
 ## Links úteis:
 [Sintáxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+[Conheça a DIO](https://web.dio.me/)
